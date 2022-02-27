@@ -1,0 +1,18 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+
+.heading
+{
+    width: 100%;
+    background-color: black;
+    color: white;
+    margin: 0px;
+}
+
+canvas
+{
+   box-shadow: 5px 5px 5px black;
+}
