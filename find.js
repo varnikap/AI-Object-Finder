@@ -1,11 +1,12 @@
-status = "";
 
+status = "";
+video="";
 function setup()
 {
     canvas = createCanvas(680,430);
-    canvas.center();
+    canvas.position(400,350);
     video = createVideo(VIDEO);
-    video.hide();
+    video.hide();   
 }
 
 function start()

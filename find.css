@@ -14,5 +14,7 @@ background-position: center;
 
 canvas
 {
-   box-shadow: 5px 5px 5px black;
+  
+   border: 3px solid black;
+    box-shadow: 5px 5px 5px black;
 }
